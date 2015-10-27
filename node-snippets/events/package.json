@@ -1,0 +1,24 @@
+{
+  "name": "VoxityEventSnippet",
+  "version": "1.0.0",
+  "keywords": [
+    "voxity",
+    "api",
+    "authentication"
+  ],
+  "dependencies": {
+    "socket.io-client": "^1.3.6"
+  },
+  "devDependencies": {},
+  "contributors": [
+    {
+      "name": "Malek Mammar",
+      "email": "malek.mammar@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https"
+  },
+  "license": "MIT"
+}

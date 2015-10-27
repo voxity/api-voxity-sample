@@ -1,0 +1,29 @@
+{
+  "name": "VoxityAuthenticationSnippet",
+  "version": "1.0.0",
+  "keywords": [
+    "voxity",
+    "api",
+    "authentication"
+  ],
+  "dependencies": {
+    "express": "4.13.1",
+    "simple-oauth2": "0.2.1",
+  },
+  "devDependencies": {},
+  "contributors": [
+    {
+      "name": "Malek Mammar",
+      "email": "malek.mammar@gmail.com"
+    },
+    {
+      "name": "Cedric Thivolle",
+      "email": "cedric.thivolle@voxity.fr"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https"
+  },
+  "license": "MIT"
+}
