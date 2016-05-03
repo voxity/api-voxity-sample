@@ -17,3 +17,6 @@ Voxity API client using Python script.
 ## node-snippets
 
 Voxity API client using nodejs. 
+
+## External contribution
+* [vox-ui-api](https://github.com/thivolle-cazat-cedric/vox-ui-api): User interface using Voxity API. Font-end and server side project.
